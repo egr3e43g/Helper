@@ -3,7 +3,7 @@ setlocal EnableExtensions EnableDelayedExpansion
 
 rem === Настройка: замените на свои значения ===
 rem Пример для GitHub: https://raw.githubusercontent.com/egr3e43g/Helper/main/Files
-set "RAW_BASE=https://raw.githubusercontent.com/egr3e43g/Helper/main/Files"
+set "RAW_BASE=https://github.com/egr3e43g/Helper/raw/refs/heads/main/Files"
 set "FILES=v1.exe v2.exe"
 rem Если файлы лежат прямо в корне репо ветки, уберите /path/to
 
